@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
+  <app appid="oohmhidcoechagkkpocjiadkdnialfkk">
+    <updatecheck codebase="https://ashik-w3e.github.io/w3-gmail-blocker/gmail-login-blocker.crx" version="0.2.6" />
+  </app>
+</gupdate>
