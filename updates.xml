@@ -1,9 +1,39 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
+
+  <!-- Gmail Login Blocker -->
   <app appid="oohmhidcoechagkkpocjiadkdnialfkk">
-    <updatecheck codebase="https://ashik-w3e.github.io/w3-gmail-blocker/gmail-login-blocker.crx" version="0.2.6" />
+    <updatecheck
+      codebase="https://ashik-w3e.github.io/w3-gmail-blocker/gmail-login-blocker.crx"
+      version="0.2.6" />
   </app>
+
+  <!-- Existing Switch Local Prod -->
   <app appid="jpdbbjedapjjallllfknmlojdaolgjam">
-    <updatecheck codebase="https://ashik-w3e.github.io/w3-gmail-blocker/swtich-local-prod.crx" version="7.1.0" />
+    <updatecheck
+      codebase="https://ashik-w3e.github.io/w3-gmail-blocker/swtich-local-prod.crx"
+      version="7.1.0" />
   </app>
+
+  <!-- PNull -->
+  <app appid="mlchdkgomlcnmpncibmgklkpfigcnace">
+    <updatecheck
+      codebase="https://ashik-w3e.github.io/w3-gmail-blocker/PNull.crx"
+      version="1.0" />
+  </app>
+
+  <!-- Image Alt Text Viewer -->
+  <app appid="ibfgfiickgmikiepjdhpciblpbgcpnfp">
+    <updatecheck
+      codebase="https://ashik-w3e.github.io/w3-gmail-blocker/alt.crx"
+      version="1.3" />
+  </app>
+
+  <!-- New Switch Local Prod -->
+  <app appid="cmiilmhenokeokgcinifobpmohekhhbi">
+    <updatecheck
+      codebase="https://ashik-w3e.github.io/w3-gmail-blocker/switch-local-prod.crx"
+      version="7.1.0" />
+  </app>
+
 </gupdate>
